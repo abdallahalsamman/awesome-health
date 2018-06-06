@@ -1,5 +1,5 @@
 ## Categories
-* [Neck](./#Neck)
+* [Neck](https://github.com/evexoio/HealthStash/blob/master/README.md#neck)
 * Upper-Back
 * Lower-Back
 * Legs
