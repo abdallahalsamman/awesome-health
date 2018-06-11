@@ -1,3 +1,7 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Health
+**Curated awesome health content for desk workers 🤸**
+
 ## Categories
 * [Eyes](https://github.com/evexoio/HealthStash/blob/master/README.md#eyes)
 * [Neck](https://github.com/evexoio/HealthStash/blob/master/README.md#neck)
