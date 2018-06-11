@@ -29,7 +29,7 @@
 * [Posterior Pelvic Tilt Correction & Causes](https://www.youtube.com/watch?v=I4hvGrCYJtc)
 
 ## Arms and Hands Issues
-This is an amazing repo for arms and hands issues https://github.com/jaymeh13/keyboard-gym
+* https://github.com/jaymeh13/keyboard-gym This is a repo for arms and hands issues
 
 ### Legs
 * [How to Fix Knee Valgus (KNEES THAT CAVE IN!)](https://www.youtube.com/watch?v=IKJWKJQXTuY)
