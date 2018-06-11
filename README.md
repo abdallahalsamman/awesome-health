@@ -9,7 +9,7 @@
 * [Others](https://github.com/evexoio/HealthStash/blob/master/README.md#others)
 
 ### Eyes
-[Computer Eye Strain Eye Exercises](https://www.youtube.com/watch?v=W10j2fL0hy0)
+* [Computer Eye Strain Eye Exercises](https://www.youtube.com/watch?v=W10j2fL0hy0)
 
 ### Neck
 * [How to Fix Nerd Neck](https://www.youtube.com/watch?v=WIsx1t8TJq4)
@@ -35,5 +35,5 @@ This is an amazing repo for arms and hands issues https://github.com/jaymeh13/ke
 * [5 Ways Flat Feet “F” Up Your Workouts!! (EXERCISES TO FIX THEM!)](https://www.youtube.com/watch?v=U2BFeod_JMk)
 
 ### Others
-[How To Sit Properly | Ideal Posture](https://www.youtube.com/watch?v=2m-Mdu5fYL0)
-[How To Stand Properly | Standing Desk](https://www.youtube.com/watch?v=kNFsdGsaB2s)
+* [How To Sit Properly | Ideal Posture](https://www.youtube.com/watch?v=2m-Mdu5fYL0)
+* [How To Stand Properly | Standing Desk](https://www.youtube.com/watch?v=kNFsdGsaB2s)
